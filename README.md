@@ -23,6 +23,3 @@ Power BI dashboard analyzing the customer journey in an e-commerce business: **I
 2. Open in Power BI Desktop.  
 3. Explore!  
 
----
-
-📌 **[GitHub Repo Link](https://github.com/Nikki2001-crypto/Ecommerce-Funnel-Dashboard)**  
